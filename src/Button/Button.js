@@ -254,7 +254,7 @@ Button.propTypes = {
    */
   type: PropTypes.string,
   /**
-   * The color of the component. It supports those theme colors that make sense for this component.
+   * The types of the component. It supports those types only
    */
   variant: PropTypes.oneOf(['flat', 'raised', 'fab']),
 };
